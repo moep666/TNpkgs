@@ -1,2 +1,2 @@
 # TNpkgs
-## TrsutNode FPGA programming via Ethernet
+## TrustNode FPGA programming via Ethernet
